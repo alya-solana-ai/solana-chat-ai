@@ -1,6 +1,6 @@
 # SolanaChat AI
 
-![Logo](./assets/alya-ai-logo.png)
+![Logo](/assets/alya-ai-logo.png)
 
 An intelligent Solana companion that understands on-chain data and user intent.  
 It helps users explore tokens, wallets, and transactions using natural language understanding and real-time blockchain data.
@@ -12,7 +12,7 @@ It helps users explore tokens, wallets, and transactions using natural language 
 • Designed to enhance transparency and engagement in the Solana network
 
 ## Preview
-![Alya AI](./assets/alya-ai.png)
+![Alya AI](/assets/alya-ai.png)
 
 ## Roadmap
 Phase 1: Prototype and interface launch  
