@@ -3,6 +3,8 @@ An intelligent Solana companion that understands on-chain data and user intent.
 
 # SolanaChat AI
 
+![Logo](./assets/alya-ai-logo.png)
+
 SolanaChat AI is an intelligent companion built for the Solana ecosystem.  
 It helps users explore tokens, wallets, and transactions using natural language understanding and real-time blockchain data.
 
@@ -23,6 +25,9 @@ Frontend: Next.js
 Backend: Node.js  
 Blockchain: Solana Web3.js SDK  
 AI Core: Proprietary model fine-tuned for Solana data
+
+## Preview
+![Alya AI](./assets/alya-ai.png)
 
 ## License
 MIT License © 2025 SolanaChat AI
