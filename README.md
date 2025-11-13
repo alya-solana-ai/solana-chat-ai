@@ -28,3 +28,6 @@ AI Core: Proprietary model fine-tuned for Solana data
 
 ## License
 MIT License © 2025 SolanaChat AI
+
+## Footer
+![Powered by Solana](./powered-by-color.svg)
